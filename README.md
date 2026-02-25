@@ -1,5 +1,8 @@
 ![](https://img.shields.io/badge/Stability-Maintained-green.svg)
 
+> [!WARNING]
+> With the upcoming EoL of Equinix Metal on June 30, 2026, this repo is being archived on February 28, 2026.
+
 # Rancher 2 Equinix Metal UI Driver
 
 Rancher 2 UI driver for the [Equinix Metal](https://metal.equinix.com) IaaS platform.
